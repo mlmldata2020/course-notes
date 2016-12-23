@@ -2,4 +2,4 @@
 
 Testing random image
 
-![](/assets/software/index.png)
+![](/assets/software/images/index.png)
