@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Syllabus](syllabus.md)
-* [Software installation](software-installation.md)
+* [Software installation](software/README.md)
 
