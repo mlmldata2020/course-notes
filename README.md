@@ -4,7 +4,6 @@ An introduction to using observational oceanographic data, with hands on practic
 
 Testing katex plugin
 
-
 $$
 u = -\frac{g}{f}\frac{\partial \zeta}{\partial x}
 $$
