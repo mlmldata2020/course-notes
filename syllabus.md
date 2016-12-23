@@ -1,4 +1,4 @@
 # Syllabus
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Once the syllabus is finalized, it will go here.
 
