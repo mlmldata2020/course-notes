@@ -1,11 +1,7 @@
 # Data Analysis Techniques In Marine Science
 
-An introduction to using observational oceanographic data, with hands on practice in scientific programming for data analysis.
+An introduction to using observational oceanographic data, with hands on practice in scientific programming for data analysis with Python.
 
-Testing katex plugin
-
-$$
-u = -\frac{g}{f}\frac{\partial \zeta}{\partial x}
-$$
+* [Installing software](software-installation/README.md)
 
 
