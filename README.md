@@ -2,6 +2,6 @@
 
 An introduction to using observational oceanographic data, with hands on practice in scientific programming for data analysis with Python.
 
-* [Installing software](software-installation/README.md)
+* [Installing software](software-installation)
 
 
