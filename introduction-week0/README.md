@@ -6,7 +6,9 @@
 	Tim - HMS - Remote sensing, CTD timeseries
 	Steve - Phycology -  ADP (Acoustic Doppler Profile) data, plotting
 
-Course Websites<br>
+### Course Information
+
+#### Websites<br>
 <b>Moodle</b>
 - Readings
 - Lectures
@@ -14,14 +16,20 @@ Course Websites<br>
 
 <b>Github</b><br>
 [github.com/mlmldata2017](github.com/mlmldata2017)
+- Homework assignments and starter code
+- Tutorials
+- Course Notes
+
+#### Assignments
 
 Homework will be weekly
 
-Final Project
-format:
-	Jupyter notebook
-		Code, text, images
-		Open ended, but using data that is interesting or related to your thesis project.
+###### Final Project
+format: Jupyter notebook
+* Code, text, images
+* Open ended, but using data that is interesting or related to your thesis project.
+
+#### Office Hours
 
 Tom's Office Hours: Mondays 1-4pm, Wednesdays 1-4pm <br>
 Patrick's Office hours: Tuesday 4-5pm, Thursdays 1-4pm
@@ -29,14 +37,16 @@ Patrick's Office hours: Tuesday 4-5pm, Thursdays 1-4pm
 
 ### Types of Data ###
 __Discrete__ - represented by an integer (whole number)- counts, presence/absence <br>
-__Continuous__ - represented by read numbers (floating point) temperature<br>
+__Continuous__ - represented by real<sup>1</sup> numbers (e.g. temperature) (floating point) <br>
 __Categorical__ - hair color, locations (sites)<br>
-__Metadata__ - "data about data"
+__Metadata__ - "data describing data"
+
+<sup>1</sup> *Actually, vectors can be represented as complex numbers with an imaginary part*
 
 ### Types of Measurements ###
 __Nominal__ - categories of equal rank<br>
 __Ordinal__ - Categories have a logically defined rank<br>
-__Scale__: __interval__ and __Ratio__
+__Scale__: __interval__ and __ratio__
 - Size Categories, Steps not necessarily equal or quantifiable<br>
 	examples:
 	How sediment grains are categorized, x-axis: angularity vs y-axis: sphericity
@@ -114,43 +124,68 @@ Long-term Memory: Usually a hardrive, large capacity, data access is slower.
 Computers are made of tons of tiny switches called __transistors__ that can be turned On or Off (1 or 0).
 The number of transistors that can be placed on a CPU has grown exponentially over the past 40 years.
 
-Moore's Law: P_n = P_02^n
+**Moore's Law**: P<sub>n</sub> = P<sub>o</sub>2<sup>n</sup>
 
 With more processing power:
-	- Can run models, collect more data at higher resolutions
-	- Computation is cheap! A more people have access to computers
-	- Programming languages are built to be more accessible, but less efficient
+- Can run models, collect more data at higher resolutions
+- Computation is cheap! A more people have access to computers
+- Programming languages are built to be more accessible, but less efficient
 
-Interpreted Languages - Python, code is translated into machine language line by line
+**Interpreted Languages** - Python, code is translated into machine language line by line
 
-Compiled Languages -Java, C, Fortran, entire code is compiled into object code, then into machine language. Can be much faster if you are resusing the code or making programs, but less practical for data analysis.
+**Compiled Languages** -Java, C, Fortran, entire code is compiled into object code, then into machine language. Can be much faster if you are resusing the code or making programs, but less practical for data analysis.
 
-Bit -binary digit (1 or 0)
-Byte - eight bits
+**Bit**: binary digit (1 or 0)
+
+**Byte**: eight bits
+
+##### Representing integers in binary
+
+Numbers are stored on computers in binary representation. Positive integers can be represented as a combination of powers of two. For example:
 
 0 0 1 0 1 0 1 0
-(0·2^7 )+(0·2^6 )+(1·2^5 )+(0·2^4 )+(1·2^3 )+(0·2^2 )+(1·2^1 )+ (0·2^0 )=42
-2^8=256⁆ - The largest value that could be represented by an 8-bit integer would 255 (don’t forget that 0 counts!)
 
-Signed byte = uses a bit to store the sign of the number
+=(0·2<sup>7</sup>)+(0·2<sup>6</sup>)+(1·2<sup>5</sup>)+(0·2<sup>4</sup>)+(1·2<sup>3</sup>)+(0·2<sup>2</sup>)+(1·2<sup>1</sup>)+ (0·2<sup>0</sup>)
+
+= 42
+
+= (0·10<sup>2</sup>) + (4·10<sup>1</sup>) + (0·2<sup>0</sup>)
+
+This is an example of an **unsigned byte**. A byte can have 2<sup>8</sup> = 256 possible combinations. An unsigned byte can have any value between 0-255. Trying to calculate a number greater than 255 would result in an "overflow" error.
+
+A **signed byte** uses the first bit to store the sign of the number.
+
 Integers:
-	- unsigned byte (0-255) (8-bits)
-	- signed byte (-128 - 127)(8-bits)
-	- Short integer (-64,768 - 64,767)  (16-bits)
-	- Long Integer (32-bits) =   4,294,967,296 values
+- unsigned byte (0-255) (8-bits)
+- signed byte (-128 - 127)(8-bits)
+- Short integer (-64,768 - 64,767)  (16-bits)
+- Long Integer (32-bits) =   4,294,967,296 values
 
-Representing decimals with Floating point numbers - have to approximate decimals
+##### Representing decimals with floating point numbers
 
-32-bit single precision
-[sign][exponent 8-bits (single precision)][coefficient 32-bits]
+The binary numbers described above cannot represent numbers with decimals. Real numbers with many digits, and irrational numbers like pi, must be approximated. A number *x* is represented in the following form:
 
-64 bits double precision
+*x* = (+/-1)x(*m*)x10<sup>*E*</sup>
 
-Round-off error
-Occurs when trying to represent real numbers with floating point numbers with a limited number of precision
-Can accumulate very quickly when repeating calculations.
-Truncation error
-Occurs when using finite # of steps to approximate an infinite number of steps
+where *m* is called the mantissa.
+
+IEEE 32 bit standard: single precision
+* 1 bit - sign
+* 8 bits - exponent
+* 23 bits - mantissa
+
+IEEE 64 bit standard: double precision
+* 1 bit - sign
+* 11 bits - exponent
+* 52 bits - mantissa
+
+###### Round-off error
+
+Occurs when trying to represent real numbers with floating point numbers with a limited number of precision Can accumulate very quickly when repeating calculations.
+
+###### Truncation error
+
+Occurs when using finite number of steps to approximate an infinite number of steps, such as a Taylor series approximation.
 
 
 __Exploring Python__
