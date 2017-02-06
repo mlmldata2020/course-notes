@@ -4,4 +4,4 @@ An introduction to using observational oceanographic data, with hands on practic
 
 * [Installing software](software-installation)
 
-* [Week 0 - Introduction Notes](week00-introduction.ipynb)
+* [Week 0 - Introduction](week00-introduction.ipynb)
