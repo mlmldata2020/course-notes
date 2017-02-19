@@ -11,3 +11,7 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 1 - Probabilities and Distributions](week01-probability_and_distributions.ipynb)
 
 * [Week 1 Lab - Python Loops and Logic](week01b-python-loops-and-logic.ipynb)
+
+* [Week 2  -  Hypothesis testing, Power Analysis, and ANOVA](week02a-hypothesis-power-anova.ipynb)
+
+* [Week 2 Lab  -  File input, basic plotting](week02b-file-input.ipynb)
