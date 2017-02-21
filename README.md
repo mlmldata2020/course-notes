@@ -15,3 +15,5 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 2  -  Hypothesis testing, Power Analysis, and ANOVA](week02a-hypothesis-power-anova.ipynb)
 
 * [Week 2 Lab  -  File input, basic plotting](week02b-file-input.ipynb)
+
+* [Week 3  -  Normality, Correlations, and Regressions](week03a.ipynb)
