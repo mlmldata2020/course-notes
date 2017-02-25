@@ -17,3 +17,5 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 2 Lab  -  File input, basic plotting](week02b-file-input.ipynb)
 
 * [Week 3  -  Normality, Correlations, and Regressions](week03a-nonparam-corr-regress.ipynb)
+
+* [Week 3 Lab -  Functions and analyzing cruise data](week03b-functions-cruisedata-continued.ipynb)
