@@ -19,3 +19,5 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 3  -  Normality, Correlations, and Regressions](week03a-nonparam-corr-regress.ipynb)
 
 * [Week 3 Lab -  Functions and analyzing cruise data](week03b-functions-cruisedata-continued.ipynb)
+
+* [Week 4 + Lab -  Error propagation, least squares fit, harmonic analysis](week04-error-propagation-least-squares.ipynb)
