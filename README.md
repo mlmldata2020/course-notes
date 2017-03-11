@@ -2,6 +2,8 @@
 
 An introduction to using observational oceanographic data, with hands on practice in scientific programming for data analysis with Python.
 
+ [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/mlmldata2017/course-notes) to run as an interactive notebook on the web.
+
 * [Installing software](software-installation)
 
 * [Week 0 - Introduction](week00-introduction.ipynb)
@@ -21,3 +23,7 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 3 Lab -  Functions and analyzing cruise data](week03b-functions-cruisedata-continued.ipynb)
 
 * [Week 4 + Lab -  Error propagation, least squares fit, harmonic analysis](week04-error-propagation-least-squares.ipynb)
+
+* [Week 5 - Multiple regression, matrices, dates](week05a-multiple-regression-matrices-dates.ipynb)
+
+* [Week 5 Lab - Multiple regression and transformations example](week05b-mult-regression-example.ipynb)
