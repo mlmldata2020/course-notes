@@ -27,5 +27,3 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 5 - Multiple regression, matrices, dates](week05a-multiple-regression-matrices-dates.ipynb)
 
 * [Week 5 Lab - Multiple regression and transformations example](week05b-mult-regression-example.ipynb)
-
-* [Week 6 - Interpolation, derivatives and integrals](week06a-interp-deriv-integrals.ipynb)
