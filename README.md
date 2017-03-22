@@ -6,6 +6,8 @@ An introduction to using observational oceanographic data, with hands on practic
 
 * [Installing software](software-installation)
 
+* [Git reference](git-reference)
+
 * [Week 0 - Introduction](week00-introduction.ipynb)
 
 * [Week 0 Lab - Python Intro](week00b-python-intro.ipynb)
