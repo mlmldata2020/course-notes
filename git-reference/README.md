@@ -2,7 +2,7 @@
 
 [Push changes to a remote repository: quick steps](#Push-changes-to-a-remote-repository-quick-steps)
 
-[Initialize a local repository on your computer](#Initialize-a-local-repository-on-your-computer)
+[Initialize a local repository on your computer](#initialize-a-local-repository-on-your-computer)
 
 [Set up a remote repository on GitHub](#Set-up-a-remote-repository-on-GitHub)
 
