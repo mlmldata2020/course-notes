@@ -42,6 +42,8 @@ git remote add origin https://github.com/mlmldata2017/repository-name.git
 
 __Replace the address above with the address of the remote repository you created on GitHub.__
 
+If you have not done so already, [initialize a local repository on your computer](#initialize-a-local-repository-on-your-computer)
+
 Follow the quick steps to [push changes to a remote repository](#push-changes-to-a-remote-repository-quick-steps)
 
 You only have to do this once for each project.
