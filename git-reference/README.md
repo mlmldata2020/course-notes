@@ -8,7 +8,7 @@
 
 ## Push changes to a remote repository: quick steps
 
-If you have already [initialized a local repository on your computer](#Initialize-a-local-repository-on-your-computer) and [set up a remote repository on GitHub](#Set-up-a-remote-repository-on-GitHub), running the three commands below in your local project directory will add all new files and changes and push them to GitHub.
+If you have already [initialized a local repository on your computer](#initialize-a-local-repository-on-your-computer) and [set up a remote repository on GitHub](#set-up-a-remote-repository-on-github), running the three commands below in your local project directory will add all new files and changes and push them to GitHub.
 
 ```
 git add .
@@ -42,6 +42,6 @@ git remote add origin https://github.com/mlmldata2017/repository-name.git
 
 __Replace the address above with the address of the remote repository you created on GitHub.__
 
-Follow the quick steps to [push changes to a remote repository](#Push-changes-to-a-remote-repository:-quick-steps)
+Follow the quick steps to [push changes to a remote repository](#push-changes-to-a-remote-repository-quick-steps)
 
 You only have to do this once for each project.
