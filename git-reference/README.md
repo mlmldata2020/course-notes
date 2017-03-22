@@ -1,6 +1,6 @@
 # Git Reference
 
-[Push changes to a remote repository: quick steps](#Push-changes-to-a-remote-repository:-quick-steps)
+[Push changes to a remote repository: quick steps](#Push-changes-to-a-remote-repository-quick-steps)
 
 [Initialize a local repository on your computer](#Initialize-a-local-repository-on-your-computer)
 
