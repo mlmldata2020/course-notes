@@ -31,3 +31,5 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 6 - Interpolation, derivatives and integrals](week06a-interp-deriv-integrals.ipynb)
 
 * [Week 6 Lab - Population growth and optimizing exponential fits](week06b-us-population-example.ipynb)
+
+* [Week 7 - Principal Component Analysis/Empirical Orthogonal Functions](week07a-PCA-EOF.ipynb)
