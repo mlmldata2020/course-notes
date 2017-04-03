@@ -35,3 +35,5 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 6 Lab - Population growth and optimizing exponential fits](week06b-us-population-example.ipynb)
 
 * [Week 7 - Principal Component Analysis/Empirical Orthogonal Functions](week07a-PCA-EOF.ipynb)
+
+* [Week 7 Lab - Monterey Bay Kelp PCA](week07b-montereybay-kelp-pca.ipynb)
