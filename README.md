@@ -38,4 +38,6 @@ An introduction to using observational oceanographic data, with hands on practic
 
 * [Week 7 Lab - Monterey Bay Kelp PCA](week07b-montereybay-kelp-pca.ipynb)
 
+* [Week 8 Lab - Pacific Decadal Oscillation and autocorrelation](week08b_correlation_function_pdo.ipynb)
+
 * [Week 9 Lab - Elkhorn Slough spectral analysis](week09b_lobo_spectral.ipynb)
