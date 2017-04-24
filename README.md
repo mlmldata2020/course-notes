@@ -40,4 +40,6 @@ An introduction to using observational oceanographic data, with hands on practic
 
 * [Week 8 Lab - Pacific Decadal Oscillation and autocorrelation](week08b_correlation_function_pdo.ipynb)
 
-* [Week 9 Lab - Elkhorn Slough spectral analysis](week09b_lobo_spectral.ipynb)
+* [Week 9 Lab - Elkhorn Slough spectral analysis - Part 1](week09b_lobo_spectral.ipynb)
+
+* [Week 10 Lab - Elkhorn Slough spectral analysis - Part 2](week10b_lobo_spectral_part2.ipynb)
