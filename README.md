@@ -33,3 +33,15 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 6 - Interpolation, derivatives and integrals](week06a-interpolation-derivatives-integrals.ipynb)
 
 * [Week 6 Lab - Population growth and optimizing exponential fits](week06b-us-population-example.ipynb)
+
+* [Week 7 - Principal Component Analysis/Empirical Orthogonal Functions](week07a-PCA-EOF.ipynb)
+
+* [Week 7 Lab - Monterey Bay Kelp PCA](week07b-montereybay-kelp-pca.ipynb)
+
+* [Week 8 Lab - Pacific Decadal Oscillation and autocorrelation](week08b_correlation_function_pdo.ipynb)
+
+* [Week 9 Lab - Elkhorn Slough spectral analysis - Part 1](week09b_lobo_spectral.ipynb)
+
+* [Week 10 Lab - Elkhorn Slough spectral analysis - Part 2](week10b_lobo_spectral_part2.ipynb)
+
+* [Week 10 Lab - Mapping and projections](week10b_mapping_intro.ipynb)
