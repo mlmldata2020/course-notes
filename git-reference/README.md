@@ -15,7 +15,28 @@ git add .
 git commit -m "Write a descriptive commit message here."
 git push origin master
 ```
+
+Note that `git add .` adds all files in the working directory and subdirectory to the repository. You can also add specific files.
+
+```
+git add file1.txt file2.txt file3.txt
+```
+
 __Replace the commit message between the quotes with a brief description of the changes that you have made.__
+
+## Ignoring and removing files from your repository
+
+__Ignoring files__
+
+Create a text file called `.gitignore` and place it in the main directory of your project. The contents of the file should contain a list of files (or file patterns) that are on your computer, but do not want to share with others (e.g. `.DS_Store`,`Thumbs.db`,`*.pyc`).
+
+For more information: https://www.atlassian.com/git/tutorials/gitignore
+
+__Removing files from your repository without removing them from your computer__
+
+```
+git rm --cached file1.txt file2.txt file3.txt
+```
 
 ## Initialize a local repository on your computer
 
