@@ -47,3 +47,5 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 10 Lab - Mapping and projections](week10b_mapping_intro.ipynb)
 
 * [Week 11 - Filtering and image analysis](week11a_filtering_image_analysis.ipynb)
+
+* [Week 12 - Spatial analysis](week12-spatial-analysis.ipynb)
