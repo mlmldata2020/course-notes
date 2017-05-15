@@ -49,3 +49,5 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 11 - Filtering and image analysis](week11a_filtering_image_analysis.ipynb)
 
 * [Week 12 - Spatial analysis](week12-spatial-analysis.ipynb)
+
+* [Week 13 Lab - NPZ model](week13b_NPZmodel.ipynb)
