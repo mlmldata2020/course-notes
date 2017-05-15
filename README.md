@@ -1,8 +1,8 @@
 # Data Analysis Techniques In Marine Science
 
-An introduction to using observational oceanographic data, with hands on practice in scientific programming for data analysis with Python.
+## MS 263 - Moss Landing Marine Labs
 
- [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/mlmldata2017/course-notes) to run as an interactive notebook on the web.
+An introduction to using observational oceanographic data, with hands on practice in scientific programming for data analysis with Python.
 
 * [Installing software](software-installation)
 
@@ -49,3 +49,5 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 11 - Filtering and image analysis](week11a_filtering_image_analysis.ipynb)
 
 * [Week 12 - Spatial analysis](week12-spatial-analysis.ipynb)
+
+* [Week 13 Lab - NPZ model](week13b_NPZmodel.ipynb)
