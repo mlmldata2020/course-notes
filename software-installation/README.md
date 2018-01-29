@@ -4,7 +4,7 @@
 
 ## On Windows ##
 <h3>Installing Anaconda, Git and a text editor for Windows </h3>
-<h4>MS263 Spring 2017</h4>
+<h4>MS263 Spring 2018</h4>
 <br>
 #### What is Anaconda/conda? ####
  
@@ -67,7 +67,7 @@ There are hundreds of more options, so don’t be afraid to try some out.
 #### What is Anaconda/conda? ####
  
 <b>Anaconda</b> is a distribution of python and a set of packages and programs that was built specifically for data science.
-This includes: <b>conda</b> (Package Manager), <b>Python</b> (will be using version 3.5), <b>jupyter-notebook</b> (that is what this is!) and  <b>spyder</b> (as well as others)
+This includes: <b>conda</b> (Package Manager), <b>Python</b> (will be using version 3.6), <b>jupyter-notebook</b> (that is what this is!) and  <b>spyder</b> (as well as others)
  
 <b>Conda</b> is a Package and Environment manager made by Continuum Analytics
  
