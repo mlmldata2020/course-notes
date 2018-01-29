@@ -9,7 +9,7 @@
 #### What is Anaconda/conda? ####
  
 <b>Anaconda</b> is a distribution of python and a set of packages and programs that was built specifically for data science.
-This includes: <b>conda</b> (Package Manager), <b>Python</b> (will be using version 3.5), <b>jupyter-notebook</b> (that is what this is!) and  <b>spyder</b> (as well as others)
+This includes: <b>conda</b> (Package Manager), <b>Python</b> (will be using version 3.6), <b>jupyter-notebook</b> (that is what this is!) and  <b>spyder</b> (as well as others)
  
 <b>Conda</b> is a Package and Environment manager made by Continuum Analytics
  
@@ -24,9 +24,8 @@ Environment: You can think of this as having different "Versions" of python inst
 Check to see if your operating system is 32-but or 64-bit (Chances are with a newer computer, it is 64-bit)
 
 Go to: https://www.continuum.io/downloads <br>
-Select <b>Python 3.5 version</b> (we will be using Python 3 for this course)
+Select <b>Python 3.6 version</b> (we will be using Python 3 for this course)
 
-![install_python3_win](images/install_python3_windows.png)
 
 ### Installing Git ###
 After installing Anaconda, open the program <b>"Command Prompt"</b>
@@ -56,13 +55,9 @@ Github is a popular remote repository hosting service. This is a way to store an
 #### Choosing a Text Editor ####
 Text editors do exactly what their name implies (and often a lot more).
 For Windows here is a list non-exhaustive list of text editors,
- 
-<b>Notepad</b> - This comes installed on windows.
 
-<b>Notepad ++</b>  - Has a ton of features and is very customizable
+<b>Atom</b> - from the Github folks, has easy to use git support and some cool custom plugins. This is the preferred text editor for this class as we will be working extensively in Github. For reference there are some other text editors listed below:
 
-<b>Atom</b> - from the Github folks, has easy to use git support and some cool custom plugins
- 
 There are hundreds of more options, so don’t be afraid to try some out.
 
 
@@ -88,9 +83,9 @@ Environment: You can think of this as having different "Versions" of python inst
 Check to see if your operating system is 32-but or 64-bit (Chances are with a newer computer, it is 64-bit)
 
 Go to: https://www.continuum.io/downloads <br>
-Select <b>Python 3.5 version</b> (we will be using Python 3 for this course)
+Select <b>Python 3.6 version</b> (we will be using Python 3 for this course)
 
-![install_python3_OX](images/install_python3_osx.png)
+
 
 ### Installing Git ###
 After installing Anaconda, open the program <b>"terminal"</b>
@@ -119,10 +114,7 @@ Github is a popular remote repository hosting service. This is a way to store an
 Text editors do exactly what their name implies (and often a lot more).
 For OSX here is a list non-exhaustive list of text editors,
  
-<b>TextEdit</b> - This comes by default.
+<b>Atom</b> - from the Github folks, has easy to use git support and some cool custom plugins. This is the preferred text editor for this class as we will be working extensively in Github. For reference there are some other text editors listed below
 
-<b>TextWrangler</b>  - Has a ton of features and is very versatile.
-
-<b>Atom</b> - from the Github folks, has easy to use git support and some cool custom plugins
  
 There are hundreds of more options, so don’t be afraid to try some out.
