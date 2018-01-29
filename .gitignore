@@ -1,0 +1,5 @@
+# git ignores these files and directories 
+.DS_Store
+.ipynb_checkpoints
+__pycache__/
+.pyc
