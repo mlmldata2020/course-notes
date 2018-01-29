@@ -1,33 +1,37 @@
-[For Windows instructions](#on-windows)<br>
+[For Windows instructions](#installing-on-windows)
+
 [For OSX (Mac) instructions](#on-osx)
 
 
-## On Windows ##
-<h3>Installing Anaconda, Git and a text editor for Windows </h3>
-<h4>MS263 Spring 2018</h4>
-<br>
-#### What is Anaconda/conda? ####
- 
-<b>Anaconda</b> is a distribution of python and a set of packages and programs that was built specifically for data science.
-This includes: <b>conda</b> (Package Manager), <b>Python</b> (will be using version 3.6), <b>jupyter-notebook</b> (that is what this is!) and  <b>spyder</b> (as well as others)
- 
-<b>Conda</b> is a Package and Environment manager made by Continuum Analytics
- 
-What is a Package Manager?
- 
-Package manager: Maintains the directories (folder pathways) and versions of external (non-default) python packages
-A package is just a collection of code that can make you life a lot easier, some of these are included with python, but others have to be downloaded from an external source.
- 
-Environment: You can think of this as having different "Versions" of python installed. This can be useful for debugging, if you want to emulate another computer that doesn’t have all of your packages and preferences installed, but for our purpose, we will just be using the default environment
+## Installing Anaconda, Git and a text editor
 
-### Installing on Windows ###
-Check to see if your operating system is 32-but or 64-bit (Chances are with a newer computer, it is 64-bit)
+### Installing on Windows
+
+#### What is Anaconda/conda?
+
+##### Anaconda
+ 
+Anaconda is a distribution of python and a set of programs built specifically for data science. This includes:
+* *python*: programming language (we'll be using version 3.6)
+* *conda*: package manager
+* [jupyter-notebook](http://jupyter.org/) web application that integrates live code, text, figures and equations
+* [spyder](https://github.com/spyder-ide/spyder) integrated development environment
+
+##### Conda
+
+Conda is a package manager made by Continuum Analytics
+ 
+* Package manager: Maintains the directories (folder pathways) and versions of external (non-default) python packages. A package is just a collection of code that can make your life a lot easier. Some of these are included with python, but others have to be downloaded from an external source.
+
+#### Install Anaconda
+
+Check to see if your operating system is 32-bit or 64-bit (Chances are with a newer computer, it is 64-bit)
 
 Go to: https://www.continuum.io/downloads <br>
 Select <b>Python 3.6 version</b> (we will be using Python 3 for this course)
 
 
-### Installing Git ###
+#### Install Git
 After installing Anaconda, open the program <b>"Command Prompt"</b>
 You might have to search for this in the start menu.<br>
 
@@ -49,37 +53,35 @@ This will display all of the packages and programs installed in this environment
 
 For the windows users, we will use a program that comes with git called <b>Git-Bash</b>. This is a Bash Shell, similar to the terminal on Unix (OSX and Linux) machines and using this will help us maintain continuity between both types of operating systems.
 
-#### Signup for an account at <a>www.github.com</a> ####
-Github is a popular remote repository hosting service. This is a way to store and share version controlled software off of your computer. You can think of this sort of like dropbox for code and something we will use extensively in this class, but more on that later.
+#### Sign up for a GitHub account
 
-#### Choosing a Text Editor ####
-Text editors do exactly what their name implies (and often a lot more).
-For Windows here is a list non-exhaustive list of text editors,
+[Github](www.github.com) is a popular remote repository hosting service. This is a way to store and share version controlled software off of your computer. You can think of this sort of like dropbox for code and something we will use extensively in this class, but more on that later.
 
-<b>Atom</b> - from the Github folks, has easy to use git support and some cool custom plugins. This is the preferred text editor for this class as we will be working extensively in Github. For reference there are some other text editors listed below:
-
-There are hundreds of more options, so don’t be afraid to try some out.
-
-
-
-<a name="osx_anchor"><h2>Installing Anaconda, Git and a text editor for OSX </h2></a><h4>MS263 Spring 2017</h4>
-<br>
-#### What is Anaconda/conda? ####
+#### Install the Atom text editor
+Text editors do exactly what their name implies (and often a lot more). In this class we will use Atom because it is available on all operating systems, has easy to use git support (it's created by the GitHub folks), and some cool custom plugins.
  
-<b>Anaconda</b> is a distribution of python and a set of packages and programs that was built specifically for data science.
-This includes: <b>conda</b> (Package Manager), <b>Python</b> (will be using version 3.6), <b>jupyter-notebook</b> (that is what this is!) and  <b>spyder</b> (as well as others)
+Download Atom at [atom.io](https://atom.io/)
+
+### Installing on OSX
+
+#### What is Anaconda/conda?
+
+##### Anaconda
  
-<b>Conda</b> is a Package and Environment manager made by Continuum Analytics
+Anaconda is a distribution of python and a set of programs built specifically for data science. This includes:
+* *python*: programming language (we'll be using version 3.6)
+* *conda*: package manager
+* [jupyter-notebook](http://jupyter.org/) web application that integrates live code, text, figures and equations
+* [spyder](https://github.com/spyder-ide/spyder) integrated development environment
+
+##### Conda
+
+Conda is a package manager made by Continuum Analytics
  
-What is a Package Manager?
- 
-Package manager: Maintains the directories (folder pathways) and versions of external (non-default) python packages
-A package is just a collection of code that can make you life a lot easier, some of these are included with python, but others have to be downloaded from an external source.
- 
-Environment: You can think of this as having different "Versions" of python installed. This can be useful for debugging, if you want to emulate another computer that doesn’t have all of your packages and preferences installed, but for our purpose, we will just be using the default environment
-<br>
-<br>
-# On OSX #
+* Package manager: Maintains the directories (folder pathways) and versions of external (non-default) python packages. A package is just a collection of code that can make your life a lot easier. Some of these are included with python, but others have to be downloaded from an external source.
+
+#### Installing Anaconda
+
 Check to see if your operating system is 32-but or 64-bit (Chances are with a newer computer, it is 64-bit)
 
 Go to: https://www.continuum.io/downloads <br>
@@ -87,7 +89,7 @@ Select <b>Python 3.6 version</b> (we will be using Python 3 for this course)
 
 
 
-### Installing Git ###
+#### Installing Git
 After installing Anaconda, open the program <b>"terminal"</b>
 This is located in Applications -> Utilities<br>
 Or you can search for "terminal" in the spotlight (use press cmd-space).
@@ -107,14 +109,11 @@ This will display all of the packages and programs installed in this environment
 ![verify git OSX](images/verify_git_osx.png)
 
 
-#### Signup for an account at <a>www.github.com</a> ####
-Github is a popular remote repository hosting service. This is a way to store and share version controlled software off of your computer. You can think of this sort of like dropbox for code and something we will use extensively in this class, but more on that later.
+#### Sign up for a GitHub account
 
-#### Choosing a Text Editor ####
-Text editors do exactly what their name implies (and often a lot more).
-For OSX here is a list non-exhaustive list of text editors,
- 
-<b>Atom</b> - from the Github folks, has easy to use git support and some cool custom plugins. This is the preferred text editor for this class as we will be working extensively in Github. For reference there are some other text editors listed below
+[Github](www.github.com) is a popular remote repository hosting service. This is a way to store and share version controlled software off of your computer. You can think of this sort of like dropbox for code and something we will use extensively in this class, but more on that later.
 
+#### Install the Atom text editor
+Text editors do exactly what their name implies (and often a lot more). In this class we will use Atom because it is available on all operating systems, has easy to use git support (it's created by the GitHub folks), and some cool custom plugins.
  
-There are hundreds of more options, so don’t be afraid to try some out.
+Download Atom at [atom.io](https://atom.io/)
