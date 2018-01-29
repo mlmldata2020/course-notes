@@ -1,9 +1,8 @@
+## Installing Anaconda, Git and a text editor
+
 [For Windows instructions](#installing-on-windows)
 
-[For OSX (Mac) instructions](#on-osx)
-
-
-## Installing Anaconda, Git and a text editor
+[For OSX (Mac) instructions](#installing-on-osx)
 
 ### Installing on Windows
 
