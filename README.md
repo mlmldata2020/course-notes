@@ -17,3 +17,7 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 2 - Hypothesis testing, power analysis, ANOVA](week02a-hypothesis-power-anova.ipynb)
 
 * [Week 2 Lab - Exceptions, loops, file input](week02b-exceptions-loops-file-input.ipynb)
+
+* [Week 3 - Non-parametric statistics, correlation and linear regression](week03a-nonparam-corr-regress.ipynb)
+
+* [Week 3 Lab - Python packages, Pandas, oceanographic cruise data](week03b-functions-cruisedata-continued.ipynb)
