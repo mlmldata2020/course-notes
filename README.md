@@ -21,3 +21,5 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 3 - Non-parametric statistics, correlation and linear regression](week03a-nonparam-corr-regress.ipynb)
 
 * [Week 3 Lab - Python packages, Pandas, oceanographic cruise data](week03b-packages-cruisedata.ipynb)
+
+* [Week 4 - Error propagation, general least squares regression, harmonic analysis](week04-error-propagation-least-squares.ipynb)
