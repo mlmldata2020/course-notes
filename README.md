@@ -23,3 +23,13 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 3 Lab - Python packages, Pandas, oceanographic cruise data](week03b-packages-cruisedata.ipynb)
 
 * [Week 4 - Error propagation, general least squares regression, harmonic analysis](week04-error-propagation-least-squares.ipynb)
+
+* [Week 5 - Multiple regression, matrices, dates](week05a-multiple-regression-matrices-dates.ipynb)
+
+* [Week 5 Lab - Multiple regression and transformations example](week05b-mult-regression-example.ipynb)
+
+* [Week 6 - Interpolation, derivatives and integrals](week06a-interpolation-derivatives-integrals.ipynb)
+
+* [Week 6 Lab - Population growth and optimizing exponential fits](week06b-us-population-example.ipynb)
+
+* [Week 6 Tutorial - Git](week06c-git-tutorial.ipynb)
