@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+__pycache__
+*.swp
+*.swo
+*~
+*.py[cod]
+*$py.class
+
