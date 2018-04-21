@@ -6,6 +6,10 @@ An introduction to using observational oceanographic data, with hands on practic
 
 * [Installing software](software-installation)
 
+* [Git reference](git-reference)
+
+* [Code of conduct](code-of-conduct.md)
+
 * [Week 0 - Introduction](week00-introduction.ipynb)
 
 * [Week 0 Lab - Python Intro](week00b-python-intro.ipynb)
@@ -37,3 +41,15 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 7 - Principal Component Analysis/Empirical Orthogonal Functions](week07a-PCA-EOF.ipynb)
 
 * [Week 7 Lab - Monterey Bay Kelp PCA](week07b-montereybay-kelp-pca.ipynb)
+
+* [Week 8 - Multi-Dimensional Scaling Analysis/Correlation Functions](week08a-MDS-cross_auto_correlation.ipynb)
+
+* [Week 8 Lab - Pacific Decadal Oscillation and autocorrelation](week08b_correlation_function_pdo.ipynb)
+
+* [Week 9 - Spectral analysis](week09a_spectral_analysis.ipynb)
+
+* [Week 9 Lab - Elkhorn Slough spectral analysis - Part 1](week09b_lobo_spectral.ipynb)
+
+* [Week 10 Lab - Elkhorn Slough spectral analysis - Part 2](week010b_lobo_spectral_part2.ipynb)
+
+* [Week 10 Lab - Mapping and projections](week10b_mapping_intro.ipynb)
