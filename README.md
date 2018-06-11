@@ -55,3 +55,5 @@ An introduction to using observational oceanographic data, with hands on practic
 * [Week 10 Lab - Mapping and projections](week10b_mapping_intro.ipynb)
 
 * [Week 12 - Convolution, filtering and image analysis](week12_filtering_image_analysis.ipynb)
+
+* [Week 13 - Modeling introduction, NPZ ecosystem model](week13_Modeling_and_NPZmodel.ipynb)
