@@ -1,0 +1,3 @@
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/A2013243212500.L2_LAC_OC.x.nc.gz?h=ocdist104&p=/data2/509050c0730b9b5a/requested_files
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/A2013243212500.L2_LAC_IOP.x.nc.gz?h=ocdist104&p=/data2/509050c0730b9b5a/requested_files
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/A2013243212500.L2_LAC_SST.x.nc.gz?h=ocdist104&p=/data2/509050c0730b9b5a/requested_files

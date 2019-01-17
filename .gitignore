@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 .ipynb_checkpoints
 .pyc
 __pycache__
+=======
+# git ignores these files and directories
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.pyc
+>>>>>>> notes2018/master

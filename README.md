@@ -8,6 +8,8 @@ An introduction to using observational oceanographic data, with hands on practic
 
 * [Git reference](git-reference)
 
+* [Code of conduct](code-of-conduct.md)
+
 * [Week 0 - Introduction](week00-introduction.ipynb)
 
 * [Week 0 Lab - Python Intro](week00b-python-intro.ipynb)
@@ -16,15 +18,15 @@ An introduction to using observational oceanographic data, with hands on practic
 
 * [Week 1 Lab - Python Loops and Logic](week01b-python-loops-and-logic.ipynb)
 
-* [Week 2  -  Hypothesis testing, Power Analysis, and ANOVA](week02a-hypothesis-power-anova.ipynb)
+* [Week 2 - Hypothesis testing, power analysis, ANOVA](week02a-hypothesis-power-anova.ipynb)
 
-* [Week 2 Lab  -  File input, basic plotting](week02b-file-input.ipynb)
+* [Week 2 Lab - Exceptions, loops, file input](week02b-exceptions-loops-file-input.ipynb)
 
-* [Week 3  -  Normality, Correlations, and Regressions](week03a-nonparam-corr-regress.ipynb)
+* [Week 3 - Non-parametric statistics, correlation and linear regression](week03a-nonparam-corr-regress.ipynb)
 
-* [Week 3 Lab -  Functions and analyzing cruise data](week03b-functions-cruisedata-continued.ipynb)
+* [Week 3 Lab - Python packages, Pandas, oceanographic cruise data](week03b-packages-cruisedata.ipynb)
 
-* [Week 4 + Lab -  Error propagation, least squares fit, harmonic analysis](week04-error-propagation-least-squares.ipynb)
+* [Week 4 - Error propagation, general least squares regression, harmonic analysis](week04-error-propagation-least-squares.ipynb)
 
 * [Week 5 - Multiple regression, matrices, dates](week05a-multiple-regression-matrices-dates.ipynb)
 
@@ -34,11 +36,17 @@ An introduction to using observational oceanographic data, with hands on practic
 
 * [Week 6 Lab - Population growth and optimizing exponential fits](week06b-us-population-example.ipynb)
 
+* [Week 6 Tutorial - Git](week06c-git-tutorial.ipynb)
+
 * [Week 7 - Principal Component Analysis/Empirical Orthogonal Functions](week07a-PCA-EOF.ipynb)
 
 * [Week 7 Lab - Monterey Bay Kelp PCA](week07b-montereybay-kelp-pca.ipynb)
 
+* [Week 8 - Multi-Dimensional Scaling Analysis/Correlation Functions](week08a-MDS-cross_auto_correlation.ipynb)
+
 * [Week 8 Lab - Pacific Decadal Oscillation and autocorrelation](week08b_correlation_function_pdo.ipynb)
+
+* [Week 9 - Spectral analysis](week09a_spectral_analysis.ipynb)
 
 * [Week 9 Lab - Elkhorn Slough spectral analysis - Part 1](week09b_lobo_spectral.ipynb)
 
@@ -46,8 +54,6 @@ An introduction to using observational oceanographic data, with hands on practic
 
 * [Week 10 Lab - Mapping and projections](week10b_mapping_intro.ipynb)
 
-* [Week 11 - Filtering and image analysis](week11a_filtering_image_analysis.ipynb)
+* [Week 12 - Convolution, filtering and image analysis](week12_filtering_image_analysis.ipynb)
 
-* [Week 12 - Spatial analysis](week12-spatial-analysis.ipynb)
-
-* [Week 13 Lab - NPZ model](week13b_NPZmodel.ipynb)
+* [Week 13 - Modeling introduction, NPZ ecosystem model](week13_Modeling_and_NPZmodel.ipynb)
