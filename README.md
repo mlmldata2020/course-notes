@@ -17,11 +17,11 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 0 Lab - Python Intro](week00b-python-intro.ipynb)
 
-* [Week 1 - Probabilities and Distributions](week01-probability_and_distributions.ipynb)
+* [Week 1 - Probabilities and Distributions](week01-probability-and-distributions.ipynb)
 
 * [Week 1 Lab - Python Loops and Logic](week01b-python-loops-and-logic.ipynb)
 
-* [Week 2 - Hypothesis testing, power analysis, ANOVA](week02a-hypothesis-power-anova.ipynb)
+<!-- * [Week 2 - Hypothesis testing, power analysis, ANOVA](week02a-hypothesis-power-anova.ipynb)
 
 * [Week 2 Lab - Exceptions, loops, file input](week02b-exceptions-loops-file-input.ipynb)
 
@@ -59,4 +59,4 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 12 - Convolution, filtering and image analysis](week12_filtering_image_analysis.ipynb)
 
-* [Week 13 - Modeling introduction, NPZ ecosystem model](week13_Modeling_and_NPZmodel.ipynb)
+* [Week 13 - Modeling introduction, NPZ ecosystem model](week13_Modeling_and_NPZmodel.ipynb) -->
