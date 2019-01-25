@@ -12,6 +12,8 @@ Green Tea Press - Free books by Allen B. Downey (Includes *Think Python*,  which
 
 ### Books - on reserve
 
+https://reserves.calstate.edu/mosslanding/course/611792370002913
+
 ##### Statistics and data analysis methods
 
 Glover, D. M., W. J. Jenkins, and S. C. Doney, Modeling Methods for Marine Science, 2011, Cambridge University Press, Cambridge, UK. ISBN: 9780521867832
