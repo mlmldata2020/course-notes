@@ -17,7 +17,7 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Outside resources](resources.md)
 
-* [Google Drive folder (syllabus, slides, readings)](goo.gl/X33iwj)
+* [Google Drive folder (syllabus, slides, readings)](http://goo.gl/X33iwj)
 
 #### Lecture and lab notes
 
