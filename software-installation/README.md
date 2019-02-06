@@ -110,6 +110,12 @@ conda install git spyder jupyter jupyterlab pandas xarray netCDF4 cartopy cmocea
 
 Here, `conda` is the name of the package management program and `install` is a command given to this program, followed by the names of programs to install.
 
+*Note: (2019-02-06)* Some Mac users also needed to run an additional command to get Spyder to run.
+
+```
+conda update spyder
+```
+
 Here is a list of the programs and Python packages that you are installing with this single command. We will not use all of them right away. You do not need to download anything from the following links, they are only provided for informational purposes.
 * [Git](https://git-scm.com/) - A version control system. This program is like a powerful "tracked changes" system for coding and software development. It is the engine behind Github, which is designed to facilitate remote collaboration between collaborators.
 * [Spyder](https://www.spyder-ide.org/) - An integrated development environment (IDE) for Python. An IDE provides a single framework for running, editing and debugging code. Spyder is specially designed for scientific programming and data science in the Python programming language. If you have used Matlab or Rstudio in the past, the layout of Spyder will be somewhat familiar.
