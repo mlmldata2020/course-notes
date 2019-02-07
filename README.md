@@ -27,7 +27,7 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 1 - Probabilities and Distributions](week01-probability-and-distributions.ipynb)
 
-* [Week 1 Lab - Python Loops and Logic](week01b-python-loops-and-logic.ipynb)
+* [Week 1 Lab - Python Functions](week01b-python-functions.ipynb)
 
 * [Week 2 - Hypothesis testing, power analysis, ANOVA](week02a-hypothesis-power-anova.ipynb)
 
