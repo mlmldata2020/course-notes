@@ -105,7 +105,7 @@ conda config --add channels conda-forge
 Now, install the additional programs and Python packages. This will take a while.
 
 ```
-conda install git spyder jupyter jupyterlab pandas xarray netCDF4 cartopy cmocean scikit-image
+conda install git spyder jupyter jupyterlab pandas xarray netCDF4 cartopy cmocean scikit-image statsmodels
 ```
 
 Here, `conda` is the name of the package management program and `install` is a command given to this program, followed by the names of programs to install.
