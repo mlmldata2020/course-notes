@@ -29,14 +29,15 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 1 Lab - Python Functions](week01b-python-functions.ipynb)
 
-* [Week 2 - Hypothesis testing, power analysis, ANOVA](week02a-hypothesis-power-anova.ipynb)
+* [Week 2 - Hypothesis testing, power analysis](week02a-hypothesis-power.ipynb)
 
-* [Week 2 Lab - Exceptions, loops, file input](week02b-exceptions-loops-file-input.ipynb)
+* [Week 2 Lab - Introduction to the Bash shell, conditional execution](week02b-bash-conditional-execution.ipynb)
 
-<!-- * [Week 3 - Non-parametric statistics, correlation and linear regression](week03a-nonparam-corr-regress.ipynb)
+* [Week 3 - ANOVA, non-parametric statistics](week03a-anova-nonparam.ipynb)
 
-* [Week 3 Lab - Python packages, Pandas, oceanographic cruise data](week03b-packages-cruisedata.ipynb)
+* [Week 3 Lab - Loops, file input, Pandas, oceanographic cruise data](week03b-packages-cruisedata.ipynb)
 
+<!--
 * [Week 4 - Error propagation, general least squares regression, harmonic analysis](week04-error-propagation-least-squares.ipynb)
 
 * [Week 5 - Multiple regression, matrices, dates](week05a-multiple-regression-matrices-dates.ipynb)
