@@ -39,6 +39,8 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 4 - Correlation, general least squares regression, harmonic analysis](week04-corr-regress-least-squares.ipynb)
 
+* [Week 4 - Python packages](week04b-python-packages.ipynb)
+
 * [Week 4 Lab - Oceanographic cruise data](week04b-cruise-data-analysis.ipynb)
 
 <!--
