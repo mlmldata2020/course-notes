@@ -35,11 +35,13 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 3 - ANOVA, non-parametric statistics](week03a-anova-nonparam.ipynb)
 
-* [Week 3 Lab - Loops, file input, Pandas, oceanographic cruise data](week03b-packages-cruisedata.ipynb)
+* [Week 3 Lab - Loops, file input, Pandas introduction](week03b-loops-fileinput.ipynb)
+
+* [Week 4 - Correlation, general least squares regression, harmonic analysis](week04-corr-regress-least-squares.ipynb)
+
+* [Week 4 Lab - Oceanographic cruise data](week04b-cruise-data-analysis.ipynb)
 
 <!--
-* [Week 4 - Error propagation, general least squares regression, harmonic analysis](week04-error-propagation-least-squares.ipynb)
-
 * [Week 5 - Multiple regression, matrices, dates](week05a-multiple-regression-matrices-dates.ipynb)
 
 * [Week 5 Lab - Multiple regression and transformations example](week05b-mult-regression-example.ipynb)
