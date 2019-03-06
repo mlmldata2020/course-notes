@@ -37,14 +37,16 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 3 Lab - Loops, file input, Pandas introduction](week03b-loops-fileinput.ipynb)
 
-* [Week 4 - Correlation, general least squares regression, harmonic analysis](week04-corr-regress-least-squares.ipynb)
+* [Week 4 - Correlation, general least squares regression](week04-corr-regress-least-squares.ipynb)
 
 * [Week 4 - Python packages](week04b-python-packages.ipynb)
 
 * [Week 4 Lab - Oceanographic cruise data](week04b-cruise-data-analysis.ipynb)
 
+
+* [Week 5 - Multiple regression, matrices](week05a-multiple-regression-matrices.ipynb)
+
 <!--
-* [Week 5 - Multiple regression, matrices, dates](week05a-multiple-regression-matrices-dates.ipynb)
 
 * [Week 5 Lab - Multiple regression and transformations example](week05b-mult-regression-example.ipynb)
 
