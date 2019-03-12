@@ -46,15 +46,17 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 5 - Multiple regression, matrices](week05a-multiple-regression-matrices.ipynb)
 
-<!--
-
 * [Week 5 Lab - Multiple regression and transformations example](week05b-mult-regression-example.ipynb)
 
-* [Week 6 - Interpolation, derivatives and integrals](week06a-interpolation-derivatives-integrals.ipynb)
+* [Week 6 - Optimization and interpolation](week06a-optimization-interpolation.ipynb)
 
+<!--
 * [Week 6 Lab - Population growth and optimizing exponential fits](week06b-us-population-example.ipynb)
+-->
 
 * [Week 6 Tutorial - Git](week06c-git-tutorial.ipynb)
+
+<!--
 
 * [Week 7 - Principal Component Analysis/Empirical Orthogonal Functions](week07a-PCA-EOF.ipynb)
 
