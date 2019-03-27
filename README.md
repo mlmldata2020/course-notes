@@ -58,11 +58,11 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 7 Lab - Monterey Bay Kelp PCA](week07b-montereybay-kelp-pca.ipynb)
 
-<!--
-
 * [Week 8 - Multi-Dimensional Scaling Analysis/Correlation Functions](week08a-MDS-cross_auto_correlation.ipynb)
 
 * [Week 8 Lab - Pacific Decadal Oscillation and autocorrelation](week08b_correlation_function_pdo.ipynb)
+
+<!--
 
 * [Week 9 - Spectral analysis](week09a_spectral_analysis.ipynb)
 
