@@ -62,15 +62,16 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 8 Lab - Pacific Decadal Oscillation and autocorrelation](week08b_correlation_function_pdo.ipynb)
 
-<!--
 
 * [Week 9 - Spectral analysis](week09a_spectral_analysis.ipynb)
 
 * [Week 9 Lab - Elkhorn Slough spectral analysis - Part 1](week09b_lobo_spectral.ipynb)
 
-* [Week 10 Lab - Elkhorn Slough spectral analysis - Part 2](week10b_lobo_spectral_part2.ipynb)
+* [Week 9 Lab - Mapping and projections](week09c_mapping_intro.ipynb)
 
-* [Week 10 Lab - Mapping and projections](week10b_mapping_intro.ipynb)
+<!--
+
+* [Week 10 Lab - Elkhorn Slough spectral analysis - Part 2](week10b_lobo_spectral_part2.ipynb)
 
 * [Week 12 - Convolution, filtering and image analysis](week12_filtering_image_analysis.ipynb)
 
