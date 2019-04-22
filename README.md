@@ -7,11 +7,11 @@ An introduction to using observational oceanographic data, with hands on practic
 These course notes are in Jupyter Notebooks. They can be viewed as static web pages on Github or run interactively on Binder.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlmldata2019/course-notes/master)
 
-<!--* [Git reference](git-reference)-->
-
 #### General information
 
 * [Installing software](software-installation)
+
+* [Git reference](git-reference)
 
 * [Code of conduct](code-of-conduct.md)
 
@@ -69,9 +69,9 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 9 Lab - Mapping and projections](week09c_mapping_intro.ipynb)
 
-<!--
-
 * [Week 10 Lab - Elkhorn Slough spectral analysis - Part 2](week10b_lobo_spectral_part2.ipynb)
+
+<!--
 
 * [Week 12 - Convolution, filtering and image analysis](week12_filtering_image_analysis.ipynb)
 
