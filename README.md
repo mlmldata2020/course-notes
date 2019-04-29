@@ -71,6 +71,8 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 10 Lab - Elkhorn Slough spectral analysis - Part 2](week10b_lobo_spectral_part2.ipynb)
 
+* [Week 11 - Spatial analysis](week11-spatial-analysis.ipynb)
+
 <!--
 
 * [Week 12 - Convolution, filtering and image analysis](week12_filtering_image_analysis.ipynb)
