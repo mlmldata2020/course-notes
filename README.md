@@ -4,23 +4,30 @@
 
 An introduction to using observational oceanographic data, with hands on practice in scientific programming for data analysis with Python.
 
+<!--
 These course notes are in Jupyter Notebooks. They can be viewed as static web pages on Github or run interactively on Binder.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlmldata2019/course-notes/master)
+-->
 
 #### General information
 
 * [Installing software](software-installation)
 
+<!--
 * [Git reference](git-reference)
+-->
 
 * [Code of conduct](code-of-conduct.md)
 
 * [Outside resources](resources.md)
 
-* [Google Drive folder (syllabus, slides, readings)](http://goo.gl/X33iwj)
+* [Google Drive folder (syllabus, slides, readings)](https://tinyurl.com/qq6ludk)
 
 #### Lecture and lab notes
 
+Coming soon
+
+<!--
 * [Week 0 - Introduction](week00-introduction.ipynb)
 
 * [Week 0 Lab - Python Intro](week00b-python-intro.ipynb)
@@ -72,8 +79,6 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 * [Week 10 Lab - Elkhorn Slough spectral analysis - Part 2](week10b_lobo_spectral_part2.ipynb)
 
 * [Week 11 - Spatial analysis](week11-spatial-analysis.ipynb)
-
-<!--
 
 * [Week 12 - Convolution, filtering and image analysis](week12_filtering_image_analysis.ipynb)
 
