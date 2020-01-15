@@ -14,6 +14,10 @@ Text editors do exactly what their name implies, and often a lot more. They are 
  
 Download an installer for Atom at [atom.io](https://atom.io/) and run it.
 
+If you have a Mac, open Atom and select "Install Shell Commands" from the Atom drop-down menu.
+
+<img src="images/atom-commandline-mac.png" alt="atom-commandline-mac" width="100"/>
+
 ### Install Miniconda
 
 #### What is Miniconda?
@@ -34,7 +38,7 @@ To maintain consistency, we will be using Python version 3.7 in this class. Prev
 
 If you have a different version of Python, you have two options:
 
-1. Uninstall the previous installation. This might be the easiest solution, but you may no longer be able to run code that you have written in a previous version of Python. If you choose this option, find the uninstall instructions for your operating system at https://conda.io/docs/user-guide/install/index.html. Proceed with the [Miniconda installation](#miniconda-installation) steps below.
+1. Uninstall the previous installation. If you choose this option, find the uninstall instructions for your operating system at https://conda.io/docs/user-guide/install/index.html. Proceed with the [Miniconda installation](#miniconda-installation) steps below.
 
 2. *Advanced:* Create a new *environment* for this class.
 
@@ -52,7 +56,7 @@ You can replace `ms263` with any name you like for your environment. To enter th
 source activate ms263
 ```
 
-Repeat this command, whenever you start a new terminal or Anaconda prompt, to activate your Python 3.7 environment.
+You will have to repeat this command whenever you start a new terminal or Anaconda prompt.
 
 Keep this window open and proceed to [Installing additional tools using conda](#installing-additional-tools-using-conda)
 
@@ -96,34 +100,56 @@ This will bring up a screen where you can type commands. Continue to the next se
 
 Now that you have a command line open, type these commands to install additional programs and Python packages that we will use throughout the semester.
 
-First, add the [conda-forge](https://conda-forge.org/) channel as a source for obtaining packages. This is a  community-driven project that makes sure that none of the packages you download conflict with each other.
+First, add the [conda-forge](https://conda-forge.org/) channel as a source for obtaining packages. This is a  community-driven project that makes sure that none of the packages you download conflict with each other. Type the following on the command line and press Enter:
 
 ```
 conda config --add channels conda-forge
 ```
 
-Now, install the additional programs and Python packages. This will take a while.
+Now, install the additional programs and Python packages. This will take a while. Type the following on the command line and press Enter:
 
 ```
-conda install git spyder jupyter jupyterlab pandas xarray netCDF4 cartopy cmocean scikit-image statsmodels
+conda install jupyter jupyterlab pandas xarray netCDF4 cartopy cmocean scikit-image statsmodels
 ```
 
-Here, `conda` is the name of the package management program and `install` is a command given to this program, followed by the names of programs to install.
+Here, `conda` is the name of the package management program and `install` is a command given to this program, followed by the names of programs to install. A description of the packages that you have just installed can be found [here](package-list.md).
 
-*Note: (2019-02-06)* Some Mac users also needed to run an additional command to get Spyder to run.
+When those package installations have finished, install Git. Git is version control system that is commonly used in developing software projects. Enter this command:
 
 ```
-conda update spyder
+conda install git
 ```
 
-Here is a list of the programs and Python packages that you are installing with this single command. We will not use all of them right away. You do not need to download anything from the following links, they are only provided for informational purposes.
-* [Git](https://git-scm.com/) - A version control system. This program is like a powerful "tracked changes" system for coding and software development. It is the engine behind Github, which is designed to facilitate remote collaboration between collaborators.
-* [Spyder](https://www.spyder-ide.org/) - An integrated development environment (IDE) for Python. An IDE provides a single framework for running, editing and debugging code. Spyder is specially designed for scientific programming and data science in the Python programming language. If you have used Matlab or Rstudio in the past, the layout of Spyder will be somewhat familiar.
-* [Jupyter](https://jupyter.org/) - The Jupyter Notebook is a program that allows you run Python code, write formatted text and create interactive visualizations. It runs in a web browser, but uses the resources on your computer and does not require an internet connection. Jupyter Notebooks can also run other programming languages besides Python.
-* [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - JupyterLab is a user interface that builds on the Jupyter Notebook, but has more interactive features.
-* [Pandas](https://pandas.pydata.org/about.html) - Python data analysis package. Great for working with data in spreadsheets and csv files.
-* [Xarray](http://xarray.pydata.org/en/stable/index.html) - Package for working with multidimensional data (e.g. data with latitude, longitude, depth and time coordinates). Useful for many data sets in the geosciences, especially data in NetCDF format (see below).
-* [NetCDF4](http://unidata.github.io/netcdf4-python/) - A Python package for reading NetCDF files, a common data format in the geosciences.
-* [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) - Python package for geospatial analysis and creating maps.
-* [cmocean](https://matplotlib.org/cmocean/) -  Beautiful colormaps for oceangraphy.
-* [scikit-image](https://scikit-image.org/) - Image processing in Python.
+Choose the default options if prompted to make selections. If for some reason that method of installing Git does not work, you can download and install Git for your operating system by following the instructions at (https://git-scm.com/)[https://git-scm.com/]
+
+##### Windows only: open the Git Bash command line
+
+If you have windows, check to make sure that you can open the Git Bash command prompt. You should be able to find Git Bash in the list of programs when you open the Windows Start menu.
+
+Git Bash provides another interface for entering text commands. Using Git Bash will allow you to enter the same commands as a Mac or any other Unix-based system (like Linux). This will allow for consistency across the entire class and expose you to the commands commonly used on Unix-based servers.
+
+### Open a text editor from the command line
+
+Make sure that you can open a text editor from the command line.
+
+First, try the Atom text editor. On the command line, enter:
+
+```
+atom
+```
+
+This should open a blank text document in the Atom text editor. If that worked, then you are all set.
+
+If for some reason you cannot open Atom from the command line. Try the default text editor for your operating. These do not have as many features as Atom but will get the job done.
+
+##### Mac
+
+```
+open -e
+```
+
+##### Windows
+
+```
+notepad
+```
