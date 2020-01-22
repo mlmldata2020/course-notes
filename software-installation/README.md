@@ -146,6 +146,8 @@ If for some reason you cannot open Atom from the command line, try the Nano text
 nano
 ```
 
+This brings up a text editor in the terminal window. Enter Control-X to exit Nano.
+
 You can also try the default text editor for your operating system. These do not have as many features as Atom but will get the job done.
 
 ##### Mac
@@ -164,4 +166,4 @@ notepad
 
 On the first day of class, we will go through the Software Carpentry <a href="http://swcarpentry.github.io/shell-novice/">Unix shell tutorial</a>. Software Carpentry is an organization that develops lessons and workshops to teach skills in research computing.
 
-You need to download some files to follow this lesson. To prepare for this lesson, follow the three steps listed at the beginning of the setup instructions <a href="http://swcarpentry.github.io/shell-novice/setup.html"> setup instructions </a>.
+You need to download some files to follow this lesson. To prepare for this lesson, follow the three steps listed at the beginning of the <a href="http://swcarpentry.github.io/shell-novice/setup.html"> setup instructions </a>.
