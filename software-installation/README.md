@@ -120,7 +120,7 @@ When those package installations have finished, install Git. Git is version cont
 conda install git
 ```
 
-Choose the default options if prompted to make selections. If for some reason that method of installing Git does not work, you can download and install Git for your operating system by following the instructions at (https://git-scm.com/)[https://git-scm.com/]
+Choose the default options if prompted to make selections. If for some reason that method of installing Git does not work, you can download and install Git for your operating system by following the instructions at https://git-scm.com
 
 ##### Windows only: open the Git Bash command line
 
