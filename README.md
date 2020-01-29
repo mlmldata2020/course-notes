@@ -25,11 +25,9 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 #### Lecture and lab notes
 
-Coming soon
-
-<!--
 * [Week 0 - Introduction](week00-introduction.ipynb)
 
+<!--
 * [Week 0 Lab - Python Intro](week00b-python-intro.ipynb)
 
 * [Week 1 - Probabilities and Distributions](week01-probability-and-distributions.ipynb)
