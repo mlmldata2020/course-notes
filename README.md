@@ -27,17 +27,17 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 0 - Introduction](week00-introduction.ipynb)
 
-<!--
-* [Week 0 Lab - Python Intro](week00b-python-intro.ipynb)
-
 * [Week 1 - Probabilities and Distributions](week01-probability-and-distributions.ipynb)
 
-* [Week 1 Lab - Python Functions](week01b-python-functions.ipynb)
+* [Week 1 Lab - Python Introduction](week01b-python-intro.ipynb)
 
-* [Week 2 - Hypothesis testing, power analysis](week02a-hypothesis-power.ipynb)
+* [Week 2 - Modeling, sampling, confidence intervals](week02-modeling-sampling.ipynb)
 
-* [Week 2 Lab - Introduction to the Bash shell, conditional execution](week02b-bash-conditional-execution.ipynb)
+* [Week 2 Lab - Python variable types (cont.), Boolean logic](week02b-tuples-dictionaries-boolean.ipynb)
 
+* [Week 2 Lab - Cruise data analysis](week02c-cruise-data-analysis.ipynb)
+
+<!--
 * [Week 3 - ANOVA, non-parametric statistics](week03a-anova-nonparam.ipynb)
 
 * [Week 3 Lab - Loops, file input, Pandas introduction](week03b-loops-fileinput.ipynb)
