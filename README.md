@@ -31,7 +31,7 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 1 Lab - Python Introduction](week01b-python-intro.ipynb)
 
-* [Week 2 - Modeling, sampling, confidence intervals](week02-modeling-sampling.ipynb)
+* [Week 2 - Modeling, sampling, confidence intervals](week02a-modeling-sampling.ipynb)
 
 * [Week 2 Lab - Python variable types (cont.), Boolean logic](week02b-tuples-dictionaries-boolean.ipynb)
 
