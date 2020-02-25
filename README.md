@@ -37,10 +37,12 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 2 Lab - Cruise data analysis](week02c-cruise-data-analysis.ipynb)
 
+* [Week 3 - Hypothesis testing, power analysis](week03a-hypothesis-power.ipynb)
+
+* [Week 3 Lab - Loops](week03b-loops.ipynb)
+
 <!--
 * [Week 3 - ANOVA, non-parametric statistics](week03a-anova-nonparam.ipynb)
-
-* [Week 3 Lab - Loops, file input, Pandas introduction](week03b-loops-fileinput.ipynb)
 
 * [Week 4 - Correlation, general least squares regression](week04-corr-regress-least-squares.ipynb)
 
