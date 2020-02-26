@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin><![CDATA[Feely, Richard A.]]></origin>
+        <origin><![CDATA[Sabine, Christopher]]></origin>
+        <title><![CDATA[NACP_West_Coast_Cruise_2007]]></title>
+        <onlink><![CDATA[http://cdiac.ornl.gov/ftp/oceans/NACP_West_Coast_Cruise_2007/]]></onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract></abstract>
+      <supplinf></supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate><![CDATA[20070511]]></begdate>
+          <enddate><![CDATA[20070614]]></enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress></progress>
+      <update> As appropriate</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc><![CDATA[-132.82]]></westbc>
+        <eastbc><![CDATA[-112.82]]></eastbc>
+        <northbc><![CDATA[52.23]]></northbc>
+        <southbc><![CDATA[24.92]]></southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>CDIAC</themekt>
+        <themekey></themekey>
+      </theme>
+      <theme>
+        <themekt>Thematic Area</themekt>
+        <themekey></themekey>
+      </theme>
+      <place>
+        <placekt>Place Keywords</placekt>
+        <placekey></placekey>
+      </place>
+    </keywords>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntfax></cntfax>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntorg></cntorg>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntfax></cntfax>
+        <cntemail></cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc></resdesc>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer><![CDATA[http://cdiac.esd.ornl.gov/]]></computer>
+            <accinstr></accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd></metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntper></cntper>
+        </cntorgp>
+        <cntperp>
+          <cntper></cntper>
+        </cntperp>
+        <cntvoice></cntvoice>
+        <cntemail></cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  </metainfo>
+  <Local-Control-Number>Created  by </Local-Control-Number>
+  <mercury>
+    <begdate><![CDATA[20070511]]></begdate>
+    <enddate><![CDATA[20070614]]></enddate>
+    <Keywords></Keywords>
+    <OME_Software_Version></OME_Software_Version>
+    <OME_DTD_Version></OME_DTD_Version>
+    <Temporal_Resolution></Temporal_Resolution>
+    <enddate_blank></enddate_blank>
+    <File_ID>Created  by </File_ID>
+    <Spatial_Extent></Spatial_Extent>
+    <OCEAN>
+      <Investigator>
+        <Name>Feely, Richard A.</Name>
+        <Organization>NOAA/PMEL</Organization>
+        <Address>7600 Sand Point Way NE,Seattle, WA 98115</Address>
+        <Phone>1(206) 526-6214</Phone>
+        <Email>richard.a.feely@noaa.gov</Email>
+      </Investigator>
+      <Investigator>
+        <Name>Sabine, Christopher</Name>
+        <Organization>Pacific Marine Environmental Laboratory</Organization>
+        <Address>National Oceanic and Atmospheric Administration,7600 Sand Point Way NE,Seattle, WA 98115, USA</Address>
+        <Phone>+1-206-526-4809</Phone>
+        <Email>chris.sabine@noaa.gov</Email>
+      </Investigator>
+      <Dataset_Info>
+        <Dataset_ID>NACP_West_Coast_Cruise_2007</Dataset_ID>
+        <Funding_Info>NOAA Climate Program</Funding_Info>
+        <Submission_Dates>
+          <Initial_Submission>20110208</Initial_Submission>
+          <Revised_Submission>20160715</Revised_Submission>
+        </Submission_Dates>
+      </Dataset_Info>
+      <Cruise_Info>
+        <Experiment>
+          <Experiment_Name><![CDATA[NACP West Coast Cruise]]></Experiment_Name>
+          <Experiment_Type><![CDATA[Research Cruise]]></Experiment_Type>
+          <Cruise>
+            <Cruise_ID><![CDATA[NACP_West_Coast_Cruise_2007]]></Cruise_ID>
+            <EXPOCODE><![CDATA[32WC20070511, (NACP2007; NACPWCC)]]></EXPOCODE>
+            <Section><![CDATA[NACP West Coast Cruise]]></Section>
+            <Geographical_Coverage>
+              <Geographical_Region><![CDATA[Pacific Ocean]]></Geographical_Region>
+              <Bounds>
+                <Westernmost_Longitude><![CDATA[-132.82]]></Westernmost_Longitude>
+                <Easternmost_Longitude><![CDATA[-112.82]]></Easternmost_Longitude>
+                <Northernmost_Latitude><![CDATA[52.23]]></Northernmost_Latitude>
+                <Southernmost_Latitude><![CDATA[24.92]]></Southernmost_Latitude>
+              </Bounds>
+            </Geographical_Coverage>
+            <Temporal_Coverage>
+              <Start_Date><![CDATA[20070511]]></Start_Date>
+              <End_Date><![CDATA[20070614]]></End_Date>
+            </Temporal_Coverage>
+            <Ports_of_Call><![CDATA[Newport, Oregon]]></Ports_of_Call>
+            <Ports_of_Call><![CDATA[San Diego, CA]]></Ports_of_Call>
+          </Cruise>
+        </Experiment>
+        <Vessel>
+          <Vessel_Name><![CDATA[R/V Wecoma]]></Vessel_Name>
+          <Vessel_ID><![CDATA[32WC]]></Vessel_ID>
+          <Country><![CDATA[USA]]></Country>
+          <Vessel_Owner><![CDATA[National Science Foundation]]></Vessel_Owner>
+        </Vessel>
+      </Cruise_Info>
+      <Variables_Info>
+        <Variable>
+          <Variable_Name><![CDATA[CTDTMP]]></Variable_Name>
+          <Description_of_Variable><![CDATA[DEG_C]]></Description_of_Variable>
+        </Variable>
+        <Variable>
+          <Variable_Name><![CDATA[CTDSAL]]></Variable_Name>
+          <Description_of_Variable></Description_of_Variable>
+        </Variable>
+        <Variable>
+          <Variable_Name><![CDATA[SALNTY]]></Variable_Name>
+          <Description_of_Variable></Description_of_Variable>
+        </Variable>
+        <Variable>
+          <Variable_Name><![CDATA[CTDOXY]]></Variable_Name>
+          <Description_of_Variable><![CDATA[UMOL/KG]]></Description_of_Variable>
+        </Variable>
+        <Variable>
+          <Variable_Name><![CDATA[OXYGEN]]></Variable_Name>
+          <Description_of_Variable><![CDATA[UMOL/KG]]></Description_of_Variable>
+        </Variable>
+        <Variable>
+          <Variable_Name><![CDATA[SILCAT]]></Variable_Name>
+          <Description_of_Variable><![CDATA[UMOL/KG]]></Description_of_Variable>
+        </Variable>
+        <Variable>
+          <Variable_Name><![CDATA[NITRAT]]></Variable_Name>
+          <Description_of_Variable><![CDATA[UMOL/KG]]></Description_of_Variable>
+        </Variable>
+        <Variable>
+          <Variable_Name><![CDATA[NITRIT]]></Variable_Name>
+          <Description_of_Variable><![CDATA[UMOL/KG]]></Description_of_Variable>
+        </Variable>
+        <Variable>
+          <Variable_Name><![CDATA[PHSPHT]]></Variable_Name>
+          <Description_of_Variable><![CDATA[UMOL/KG]]></Description_of_Variable>
+        </Variable>
+        <Variable>
+          <Variable_Name><![CDATA[TCARBN]]></Variable_Name>
+          <Description_of_Variable><![CDATA[UMOL/KG]]></Description_of_Variable>
+        </Variable>
+        <Variable>
+          <Variable_Name><![CDATA[ALKALI]]></Variable_Name>
+          <Description_of_Variable><![CDATA[UMOL/KG]]></Description_of_Variable>
+        </Variable>
+      </Variables_Info>
+      <Method_Description>
+        <Total_C02_Data>
+          <TCO2_Analysis_Method><![CDATA[Coulometry with two analytical systems (PMEL-1 and PMEL-2) used simultaneously on the cruise with SOMMA (Single Operator Multiparameter Metabolic Analyzer)]]></TCO2_Analysis_Method>
+          <Standardization_Technique>
+            <Technique_Description></Technique_Description>
+            <Sample_Volume><![CDATA[300-mL]]></Sample_Volume>
+            <CRM_Info>
+              <Correction_Magnitude></Correction_Magnitude>
+              <Batch_Number><![CDATA[79]]></Batch_Number>
+              <CRM_Analysis_Info><![CDATA[On this cruise, the overall accuracy and precision for the primary CRMs on both instruments combined was 0.54 +/- 1.5 umol/kg (n=87). Preliminary DIC data reported to the database have not yet been completely corrected to the Batch 79 CRM value, but 20 a more careful quality assurance to be completed shoreside will have final data corrected to the secondary standard on a per instrument basis.]]></CRM_Analysis_Info>
+            </CRM_Info>
+          </Standardization_Technique>
+          <Field_Replicate_Info><![CDATA[The replicate samples were interspersed throughout the station analysis for quality assurance of the integrity of the coulometer cell solutions. No systematic differences between the replicates were observed.]]></Field_Replicate_Info>
+          <Poisoning_Info>
+            <Poisoning_Correction_Description><![CDATA[0.18 mL of 50% saturated HgCl2 solution was added as a preservative]]></Poisoning_Correction_Description>
+            <Poison_Volume></Poison_Volume>
+          </Poisoning_Info>
+          <Accuracy_Info><![CDATA[0.54 +/- 1.5 umol/kg (n=87)]]></Accuracy_Info>
+          <Method_References><![CDATA[Johnson et al., 1985,1987,1993; Johnson, 1992; Wilke et al., 1993]]></Method_References>
+          <Citations></Citations>
+        </Total_C02_Data>
+        <Alkalinity>
+          <Curve_Fitting_Method><![CDATA[Seawater total alkalinity (TA) was measured by acidimetric titration]]></Curve_Fitting_Method>
+          <Type_of_Titration><![CDATA[acidimetric titration]]></Type_of_Titration>
+          <Description_of_Other_Titration></Description_of_Other_Titration>
+          <Cell_Type><![CDATA[open cell]]></Cell_Type>
+          <CRM_Scale><![CDATA[Dickson]]></CRM_Scale>
+          <Sample_Volume><![CDATA[250 mL]]></Sample_Volume>
+          <Magnitude_of_Blank_Correction></Magnitude_of_Blank_Correction>
+          <Accuracy_Info><![CDATA[Analytical precision over the course of the cruise, calculated as the standard deviation of all CRM analyses, was +/- 2.0 umol/kg.]]></Accuracy_Info>
+          <Method_References><![CDATA[Dickson et al (2003)]]></Method_References>
+          <Citations></Citations>
+        </Alkalinity>
+        <pCO2_Data>
+          <Analysis>
+            <pCO2_Analysis_Method></pCO2_Analysis_Method>
+            <Sample_Volume></Sample_Volume>
+            <Headspace_Volume></Headspace_Volume>
+            <Measurement_Temperature></Measurement_Temperature>
+            <Temperature_Normalization></Temperature_Normalization>
+            <Temperature_Correction_Method></Temperature_Correction_Method>
+            <Variable_Reported></Variable_Reported>
+            <Gas></Gas>
+            <Standard_Gas_Concentrations></Standard_Gas_Concentrations>
+            <Frequency_of_Standardization></Frequency_of_Standardization>
+          </Analysis>
+          <Field_Replicate_Info></Field_Replicate_Info>
+          <Storage_Method></Storage_Method>
+          <Accuracy_Info></Accuracy_Info>
+          <Method_References></Method_References>
+        </pCO2_Data>
+        <pH_Data>
+          <pH_Scale></pH_Scale>
+          <pH_Analysis_Method></pH_Analysis_Method>
+          <Calibration_Info>
+            <Calibration_Description></Calibration_Description>
+            <In_Situ_Temperature></In_Situ_Temperature>
+            <Temperature_of_Analysis></Temperature_of_Analysis>
+            <Temperature_Normalization></Temperature_Normalization>
+            <In_Situ_Pressure></In_Situ_Pressure>
+          </Calibration_Info>
+          <Accuracy_Info></Accuracy_Info>
+          <Method_References></Method_References>
+        </pH_Data>
+        <Method_References></Method_References>
+      </Method_Description>
+      <Data_set_References><![CDATA[<p>Byrne, R.H., S. Mecking, R.A. Feely and X. Liu. 2010. Direct observations of basin-wide acidification of the North Pacific Ocean. Geophys. Res. Lett. 37 L02601. doi: 10.1029/2009GL040999. </p>			
+<p>Feely, R.A., C.L. Sabine, J.M. Hernandez-Ayon, D. Ianson and B. Hales. 2008.  Evidence for upwelling of corrosive "ocean acidified" water onto the west coast of North America. Science, 320:1490, DOI: 10.1126/science.1155676.</p>]]></Data_set_References>
+      <Additional_Information></Additional_Information>
+      <Citation><![CDATA[Feely, R., and C. Sabine. 2011. Carbon dioxide and hydrographic measurements during the 2007 NACP West Coast Cruise. http://cdiac.ornl.gov/ftp/oceans/NACP_West_Coast_Cruise_2007/. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, US Department of Energy, Oak Ridge, Tennessee. doi: 10.3334/CDIAC/otg.CLIVAR_NACP_West_Coast_Cruise_2007]]></Citation>
+      <Data_Set_Link>
+        <URL><![CDATA[http://cdiac.ornl.gov/ftp/oceans/NACP_West_Coast_Cruise_2007/]]></URL>
+        <Label><![CDATA[2007 NACP West Coast Cruise]]></Label>
+        <Link_Note></Link_Note>
+      </Data_Set_Link>
+      <Measurement_Type><![CDATA[discrete measurement discrete data discrete measurements  bottle measurement bottle data bottle measurements]]></Measurement_Type>
+    </OCEAN>
+    <source><![CDATA[http://mercury-ops2.ornl.gov/OceanOME/admin/OceanMetadata/discrete/NACP_West_Coast_Cruise_2007.xml]]></source>
+  </mercury>
+</metadata>
