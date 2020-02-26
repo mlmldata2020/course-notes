@@ -41,7 +41,7 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 3 Lab - Loops](week03b-loops.ipynb)
 
-* [Week 3 Lab - Loops](week03b-loops.ipynb)
+* [Week 3 Lab - WCOA cruise comparison](week03c_wcoa_cruise_comparison.ipynb)
 
 <!--
 * [Week 3 - ANOVA, non-parametric statistics](week03a-anova-nonparam.ipynb)
