@@ -1,0 +1,40 @@
+Please cite this data set as:
+
+Feely, R., and C. Sabine. 2011. Carbon dioxide and hydrographic measurements during 
+the 2007 NACP West Coast Cruise. http://cdiac.ornl.gov/ftp/oceans/NACP_West_Coast_Cruise_2007/. 
+Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, US Department 
+of Energy, Oak Ridge, Tennessee. doi: 10.3334/CDIAC/otg.CLIVAR_NACP_West_Coast_Cruise_2007
+
+NOTE: 07/15/2016 File updated by Dana Greeley/PMEL
+
+BOTTLE,20160715PCDIACAKO
+# 7/15/2016 Initialized README file  
+# Data source: SHIP: R/V Wecoma 
+# Cruise: W0705A; NACP2007 
+# Region: West coast of North America 
+# EXPOCODE: 32WC20070511 
+# DATES: 5/11 - 6/14/2007 
+# Chief Scientist: R.A. Feely and C.L. Sabine 
+# 111 stations with 24 place Rosette 
+# Hydro: Who - G.Johnson; Status -  
+# 	Notes: 	 
+# Nuts: Who - B.Hales; Status - 
+# 	Notes: 
+# O2: Who - C.Langdon; Status -final 
+# 	Notes: 
+# TCO2: Who - R.Feely&C.Sabine; Status -final 
+# 	Notes:  
+# TA: Who - R.Feely&C.Sabine; Status -final 
+# 	Notes:  
+# DOC/POC/PON/ChloroA:  Who - D.Ianson; Status - unknown 
+# 	Notes: no data in file 
+# Please cite this data set as: 
+# Feely, R. and C. Sabine. 2011. Carbon dioxide and hydrographic measurements during the 2007 NACP West Coast Cruise.  
+# http://cdiac.ornl.gov/oceans/Coastal/NACP_West.html 
+# Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, US Department of Energy, Oak Ridge, Tennessee. 
+# doi: 10.3334/CDIAC/otg.CLIVAR_NACP_West_Coast_Cruise_2007 
+# References: 
+# Byrne, R.H., S. Mecking, R.A. Feely, and X. Liu (2010): Direct observations of basin-wide acidification of the North 
+Pacific Ocean. Geophys. Res. Lett., 37, L02601, doi: 10.1029/2009GL040999. 
+# Feely, R.A., C.L. Sabine, J.M. Hernandez-Ayon, D. Ianson, and B. Hales (2008): Evidence for upwelling of corrosive 
+"ocean acidified" water onto the west coast of North America. Science, 320, 1490, DOI: 10.1126/science.1155676.
