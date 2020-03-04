@@ -43,10 +43,18 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 3 Lab - WCOA cruise comparison](week03c_wcoa_cruise_comparison.ipynb)
 
+* [Week 4 - Power analysis](week04a-power-analysis.ipynb)
+
+* [Week 4 - Correlation, general least squares regression](week04b-corr-regress-least-squares.ipynb)
+
+* [Week 4 Lab - Python functions](week04c-python-functions.ipynb)
+
+* [Week 4 Lab - Linear regression examples](week04d-linear-regression-three-methods.ipynb)
+
 <!--
 * [Week 3 - ANOVA, non-parametric statistics](week03a-anova-nonparam.ipynb)
 
-* [Week 4 - Correlation, general least squares regression](week04-corr-regress-least-squares.ipynb)
+
 
 * [Week 4 - Python packages](week04b-python-packages.ipynb)
 
