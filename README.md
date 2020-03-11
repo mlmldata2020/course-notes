@@ -51,6 +51,10 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 4 Lab - Linear regression examples](week04d-linear-regression-three-methods.ipynb)
 
+* [Week 5 - The generalized linear model](week05a_generalized_linear_model.ipynb)
+
+* [Week 5b - Python packages](week05b-python-packages.ipynb)
+
 <!--
 * [Week 3 - ANOVA, non-parametric statistics](week03a-anova-nonparam.ipynb)
 
