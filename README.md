@@ -55,8 +55,13 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 5b - Python packages](week05b-python-packages.ipynb)
 
+* [Week 3 - ANOVA, non-parametric statistics](week06a-anova-nonparam.ipynb)
+
+* [Week 6 - Optimization and interpolation](week06b-optimization-interpolation.ipynb)
+
+* [Week 6 Lab - Population growth and optimizing exponential fits](week06c-us-population-example.ipynb)
+
 <!--
-* [Week 3 - ANOVA, non-parametric statistics](week03a-anova-nonparam.ipynb)
 
 
 
