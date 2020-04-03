@@ -61,6 +61,11 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 6 Lab - Population growth and optimizing exponential fits](week06c-us-population-example.ipynb)
 
+* [Week 7 - Principal Component Analysis/Empirical Orthogonal Functions](week07a-PCA-EOF.ipynb)
+
+* [Week 7 Lab - Monterey Bay Kelp PCA](week07b-montereybay-kelp-pca.ipynb)
+
+
 <!--
 
 
@@ -80,9 +85,6 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 6 Tutorial - Git](week06c-git-tutorial.ipynb)
 
-* [Week 7 - Principal Component Analysis/Empirical Orthogonal Functions](week07a-PCA-EOF.ipynb)
-
-* [Week 7 Lab - Monterey Bay Kelp PCA](week07b-montereybay-kelp-pca.ipynb)
 
 * [Week 8 - Multi-Dimensional Scaling Analysis/Correlation Functions](week08a-MDS-cross_auto_correlation.ipynb)
 
