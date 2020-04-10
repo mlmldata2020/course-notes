@@ -53,7 +53,7 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 5 - The generalized linear model](week05a_generalized_linear_model.ipynb)
 
-* [Week 5b - Python packages](week05b-python-packages.ipynb)
+* [Week 5b - Python modules](week05b-python-modules.ipynb)
 
 * [Week 6 - ANOVA, non-parametric statistics](week06a-anova-nonparam.ipynb)
 
