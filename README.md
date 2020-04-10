@@ -65,12 +65,11 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 7 Lab - Monterey Bay Kelp PCA](week07b-montereybay-kelp-pca.ipynb)
 
+* [Week 8 - Multi-Dimensional Scaling Analysis](week08a-MDS.ipynb)
+
+* [Week 8 Lab - Python packages](week08b-python-packages.ipynb)
 
 <!--
-
-
-
-* [Week 4 - Python packages](week04b-python-packages.ipynb)
 
 * [Week 4 Lab - Oceanographic cruise data](week04b-cruise-data-analysis.ipynb)
 
@@ -84,9 +83,6 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 * [Week 6 Lab - Population growth and optimizing exponential fits](week06b-us-population-example.ipynb)
 
 * [Week 6 Tutorial - Git](week06c-git-tutorial.ipynb)
-
-
-* [Week 8 - Multi-Dimensional Scaling Analysis/Correlation Functions](week08a-MDS-cross_auto_correlation.ipynb)
 
 * [Week 8 Lab - Pacific Decadal Oscillation and autocorrelation](week08b_correlation_function_pdo.ipynb)
 
