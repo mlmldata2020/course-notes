@@ -69,6 +69,12 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 8 Lab - Python packages](week08b-python-packages.ipynb)
 
+* [Week 9 - Spectral analysis](week09a_spectral_analysis.ipynb)
+
+* [Week 9 Lab - Pacific Decadal Oscillation and autocorrelation](week09b_correlation_function_pdo.ipynb)
+
+* [Week 9 Lab - Elkhorn Slough spectral analysis - Part 1](week09c_lobo_spectral.ipynb)
+
 <!--
 
 * [Week 4 Lab - Oceanographic cruise data](week04b-cruise-data-analysis.ipynb)
@@ -84,12 +90,10 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 6 Tutorial - Git](week06c-git-tutorial.ipynb)
 
-* [Week 8 Lab - Pacific Decadal Oscillation and autocorrelation](week08b_correlation_function_pdo.ipynb)
 
 
-* [Week 9 - Spectral analysis](week09a_spectral_analysis.ipynb)
 
-* [Week 9 Lab - Elkhorn Slough spectral analysis - Part 1](week09b_lobo_spectral.ipynb)
+
 
 * [Week 9 Lab - Mapping and projections](week09c_mapping_intro.ipynb)
 
