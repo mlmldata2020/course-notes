@@ -75,6 +75,8 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 9 Lab - Elkhorn Slough spectral analysis - Part 1](week09c_lobo_spectral.ipynb)
 
+* [Week 10 Lab - Elkhorn Slough spectral analysis - Part 2](week10_lobo_spectral_part2.ipynb)
+
 <!--
 
 * [Week 4 Lab - Oceanographic cruise data](week04b-cruise-data-analysis.ipynb)
@@ -96,8 +98,6 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 
 * [Week 9 Lab - Mapping and projections](week09c_mapping_intro.ipynb)
-
-* [Week 10 Lab - Elkhorn Slough spectral analysis - Part 2](week10b_lobo_spectral_part2.ipynb)
 
 * [Week 11 - Spatial analysis](week11-spatial-analysis.ipynb)
 
