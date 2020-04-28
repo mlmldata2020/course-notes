@@ -11,11 +11,9 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 #### General information
 
-* [Installing software](software-installation)
-
-<!--
 * [Git reference](git-reference)
--->
+
+* [Installing software](software-installation)
 
 * [Code of conduct](code-of-conduct.md)
 
