@@ -1,0 +1,9 @@
+pandas
+xarray
+netCDF4
+cartopy
+cmocean
+scikit-image
+statsmodels
+cbsyst
+uncertainties
