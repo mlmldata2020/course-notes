@@ -75,10 +75,24 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 10 Lab - Elkhorn Slough spectral analysis - Part 2](week10_lobo_spectral_part2.ipynb)
 
+* [Week 11 - Convolution, filtering and image analysis](week11a_filtering_image_analysis.ipynb)
+
+* [Week 11 Lab - Mapping and projections](week11b_mapping_intro.ipynb)
+
+#### Extras
+
+* [Spatial analysis](x-spatial-analysis.ipynb)
+
+* [Error propagation](x-error-propagation.ipynb)
+
+* [Least squares harmonic analysis](x-least-squares-harmonic-fit.ipynb)
+
+* [Modeling introduction, NPZ ecosystem model](x-modeling-and-NPZmodel.ipynb)
+
+
 <!--
 
 * [Week 4 Lab - Oceanographic cruise data](week04b-cruise-data-analysis.ipynb)
-
 
 * [Week 5 - Multiple regression, matrices](week05a-multiple-regression-matrices.ipynb)
 
@@ -90,15 +104,8 @@ These course notes are in Jupyter Notebooks. They can be viewed as static web pa
 
 * [Week 6 Tutorial - Git](week06c-git-tutorial.ipynb)
 
-
-
-
-
-
 * [Week 9 Lab - Mapping and projections](week09c_mapping_intro.ipynb)
 
 * [Week 11 - Spatial analysis](week11-spatial-analysis.ipynb)
 
-* [Week 12 - Convolution, filtering and image analysis](week12_filtering_image_analysis.ipynb)
-
-* [Week 13 - Modeling introduction, NPZ ecosystem model](week13_Modeling_and_NPZmodel.ipynb) -->
+-->
