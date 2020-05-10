@@ -1,3 +1,6 @@
+numpy
+matplotlib
+scipy
 pandas
 xarray
 netCDF4
