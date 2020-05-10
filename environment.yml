@@ -12,4 +12,5 @@ dependencies:
   - scikit-image
   - statsmodels
   - cbsyst
+  - gsw
   - uncertainties
